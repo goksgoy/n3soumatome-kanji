@@ -40,7 +40,7 @@ const vocabulary = [
     document.getElementById("word").textContent = currentVocabulary.word;
   
     // Enable the "Show Meaning" button and hide "Show Vocab"
-    document.getElementById("show-meaning").style.display = "inline-block";
+    document.getElementById("show-meaning").disabled = false;
     document.getElementById("show-vocab").style.display = "none";
   }
   
@@ -59,6 +59,6 @@ const vocabulary = [
   
     // Disable the "Show Vocab" button and enable the "Show Meaning" button
     document.getElementById("show-vocab").style.display = "none";
-    document.getElementById("show-meaning").style.display = "inline-block";
+    document.getElementById("show-meaning").disabled = false;
   }
   
