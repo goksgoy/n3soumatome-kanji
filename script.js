@@ -23,7 +23,26 @@ const vocabulary = [
     { word: "各国", meaning: "かっこく" },{ word: "目次", meaning: "もくじ" },{ word: "次回", meaning: "じかい" },{ word: "高速道路", meaning: "こうそくどうろ" },
     { word: "速い", meaning: "はやい" },{ word: "速度", meaning: "そくど" },{ word: "過去", meaning: "かこ" },{ word: "過ぎる", meaning: "すぎる" },
     { word: "地下鉄", meaning: "ちかてつ" },{ word: "鉄道", meaning: "てつどう" },{ word: "鉄", meaning: "てつ" },{ word: "先発", meaning: "せんぱつ" },
-    { word: "着く", meaning: "つく" },{ word: "料金", meaning: "りょうきん" }
+    { word: "着く", meaning: "つく" },{ word: "料金", meaning: "りょうきん" },
+    { word: "指", meaning: "ゆび" },{ word: "指定", meaning: "してい" },{ word: "指定席", meaning: "していせき" },{ word: "指輪", meaning: "ゆびわ" },
+    { word: "定休日", meaning: "ていきゅうび" },{ word: "安定", meaning: "あんてい" },{ word: "不安定", meaning: "ふあんてい" },{ word: "席", meaning: "せき" },
+    { word: "出席", meaning: "しゅっせき" },{ word: "欠席", meaning: "けっせき" },{ word: "自由", meaning: "じゆう" },{ word: "理由", meaning: "りゆう" },
+    { word: "自由席", meaning: "じゆうせき" },{ word: "番号", meaning: "ばんごう" },{ word: "〜番線", meaning: "〜ばんせん" },{ word: "窓", meaning: "まど" },
+    { word: "窓口", meaning: "まどぐち" },{ word: "両側", meaning: "りょうがわ" },{ word: "窓側", meaning: "まどがわ" },{ word: "通路", meaning: "つうろ" },
+    { word: "線路", meaning: "せんろ" },{ word: "道路", meaning: "どうろう" },{ word: "外", meaning: "そと" },{ word: "座る", meaning: "すわる" },
+    { word: "全席", meaning: "ぜんせき" },{ word: "下り電車", meaning: "くだりでんしゃ" },{ word: "料金箱", meaning: "りょうきんばこ" },{ word: "優先座席", meaning: "ゆうせんざせき" },
+    { word: "停車", meaning: "ていしゃ" },{ word: "バス停", meaning: "バスてい" },{ word: "整理", meaning: "せいり" },{ word: "整理券", meaning: "せいりけん" },
+    { word: "現金", meaning: "げんきん" },{ word: "現れる", meaning: "あらわれる" },{ word: "表現", meaning: "ひょうげん" },{ word: "両親", meaning: "りょうしん" },
+    { word: "取り替える", meaning: "とりかえる" },{ word: "着替える", meaning: "きがえる" },{ word: "両替", meaning: "りょうがえ" },{ word: "優先席", meaning: "ゆうせんせき" },
+    { word: "優しい", meaning: "やさしい" },{ word: "俳優", meaning: "はいゆう" },{ word: "座席", meaning: "ざせき" },{ word: "正座", meaning: "せいざ" },
+    { word: "降車口", meaning: "こうしゃぐち" },{ word: "降りる", meaning: "おりる" },{ word: "以降", meaning: "いこう" },{ word: "降る", meaning: "ふる" },
+    { word: "年寄り", meaning: "としより" },{ word: "不自由", meaning: "ふじゆう" },{ word: "部屋", meaning: "へや" },{ word: "", meaning: "" },
+    { word: "駐車券", meaning: "ちゅうしゃけん" },{ word: "回数券", meaning: "かいすうけん" },{ word: "乗車券", meaning: "じょうしゃけん" },{ word: "選ぶ", meaning: "えらぶ" },
+    { word: "速度制限", meaning: "そくどせいげん" },{ word: "未定", meaning: "みてい" },{ word: "未来", meaning: "みらい" },{ word: "〜未満", meaning: "〜みまん" },
+    { word: "週末", meaning: "しゅうまつ" },{ word: "年末", meaning: "ねんまつ" },{ word: "若い", meaning: "わかい" },{ word: "毎晩", meaning: "まいばん" },
+    { word: "晩", meaning: "ばん" },{ word: "○○島", meaning: "○○とう" },{ word: "島", meaning: "しま" },{ word: "皿", meaning: "さら" },{ word: "灰皿", meaning: "はいざら" },
+    { word: "出血", meaning: "しゅっけつ" },{ word: "血", meaning: "ち" },{ word: "救助", meaning: "きゅうじょ" },{ word: "助ける", meaning: "たすける" },
+    { word: "鳥", meaning: "とり" }
     
   ];
   
