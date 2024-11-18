@@ -40,7 +40,7 @@ const vocabulary = [
     document.getElementById("word").textContent = currentVocabulary.word;
   
     // Enable the "Show Meaning" button and hide "Show Vocab"
-    document.getElementById("show-meaning").disabled = false;
+    document.getElementById("show-meaning").style.display = "inline";
     document.getElementById("show-vocab").style.display = "none";
   }
   
