@@ -16,7 +16,14 @@ const vocabulary = [
     { word: "非常階段", meaning: "ひじょうかいだん" },{ word: "頭上", meaning: "ずじょう" },{ word: "足元", meaning: "あしもと" },{ word: "危険", meaning: "きけん" },
     { word: "捨てる", meaning: "すてる" },{ word: "非常", meaning: "ひじょう" },{ word: "非常に", meaning: "ひじょうに" },{ word: "日常", meaning: "にちじょう" },
     { word: "正常", meaning: "せいじょう" },{ word: "階段", meaning: "かいだん" },{ word: "箱", meaning: "はこ" },{ word: "危ない", meaning: "あぶない" },
-    { word: "問題", meaning: "もんだい" },{ word: "運動", meaning: "うんどう" },{ word: "火事", meaning: "かじ" }
+    { word: "問題", meaning: "もんだい" },{ word: "運動", meaning: "うんどう" },{ word: "火事", meaning: "かじ" },
+    { word: "上り方面", meaning: "のぼりほうめん" },{ word: "下り方面", meaning: "くだりほうめん" },{ word: "線", meaning: "せん" },{ word: "普通", meaning: "ふつう" },
+    { word: "各駅", meaning: "かくえき" },{ word: "次発", meaning: "じはつ" },{ word: "快速", meaning: "かいそく" },{ word: "通過", meaning: "つうか" },
+    { word: "〜番線", meaning: "〜ばんせん" },{ word: "全面", meaning: "ぜんめん" },{ word: "画面", meaning: "がめん" },{ word: "各自", meaning: "かくじ" },
+    { word: "各国", meaning: "かっこく" },{ word: "目次", meaning: "もくじ" },{ word: "次回", meaning: "じかい" },{ word: "高速道路", meaning: "こうそくどうろ" },
+    { word: "速い", meaning: "はやい" },{ word: "速度", meaning: "そくど" },{ word: "過去", meaning: "かこ" },{ word: "過ぎる", meaning: "すぎる" },
+    { word: "地下鉄", meaning: "ちかてつ" },{ word: "鉄道", meaning: "てつどう" },{ word: "鉄", meaning: "てつ" },{ word: "先発", meaning: "せんぱつ" },
+    { word: "着く", meaning: "つく" },{ word: "料金", meaning: "りょうきん" }
     
   ];
   
