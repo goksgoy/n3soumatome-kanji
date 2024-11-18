@@ -49,7 +49,7 @@ const vocabulary = [
     document.getElementById("word").textContent = currentVocabulary.meaning;
   
     // Disable the "Show Meaning" button and show "Show Vocab"
-    document.getElementById("show-meaning").style.display= "none";
+    document.getElementById("show-meaning").style.display = "none";
     document.getElementById("show-vocab").style.display = "inline-block";
   }
   
